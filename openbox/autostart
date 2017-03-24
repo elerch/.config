@@ -1,0 +1,4 @@
+xmodmap .Xmodmap
+parcellite &
+cbatticon &
+compton -b

@@ -1,0 +1,14 @@
+Trolltech.conf
+chromium/**
+gpicview/**
+gtk-2.0/**
+libfm/**
+
+dconf/**
+lxpanel/LXDE/config
+lxpanel/launchtaskbar.cfg
+lxsession/**
+menus/**
+mr/**
+vcsh/**
+vlc/**
